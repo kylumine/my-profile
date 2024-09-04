@@ -1,0 +1,40 @@
+{
+  "data_1": [
+    { "birthday": "22 May 2003" },
+    {
+      "github": "<a target='blank' href='https://github.com/kylumine'>https://github.com/kylumine</a>"
+    },
+    { "phone": "+63 910-677-4304" },
+    { "address": "Tinangnan, Tubigon, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 21 },
+    { "degree": "B.S. Information Technology" },
+    { "email": "<a href='mailto:someone@example.com'>yoofiona@gmail.com</a>" }
+  ],
+  "data_3": [
+    "Tinangnan, Tubigon, Bohol, Philippines",
+    "+63 910-677-4304",
+    "<a href='mailto:someone@example.com'>yoofiona@gmail.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. INFORMATION TECHNOLOGY",
+      "year": "2021 - present",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2014 - 2021",
+      "school": "Holy Cross Academy",
+      "address": "Tubigon, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2009 - 2014",
+      "school": "Mater Dei College",
+      "address": "Cabulijan, Tubigon, Bohol"
+    }
+  ]
+}

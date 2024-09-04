@@ -1,0 +1,14 @@
+{
+  "techs_1": [
+    { "name": "JavaScript", "rate": "30" },
+    { "name": "ReactJS", "rate": "35" },
+    { "name": "SQL Server", "rate": "60" },
+    { "name": "MongoDB", "rate": "40" }
+  ],
+  "techs_2": [
+    { "name": "Laravel", "rate": "60" },
+    { "name": "Laravel Inertia", "rate": "60" },
+    { "name": "Vue JS", "rate": "40" },
+    { "name": "AWS API Gateway", "rate": "0" }
+  ]
+}

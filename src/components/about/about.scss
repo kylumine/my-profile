@@ -1,0 +1,36 @@
+.about {
+  .content {
+    h3 {
+      font-weight: 700;
+      font-size: 26px;
+      color: #df3fcf;
+      margin-bottom: 1rem;
+    }
+
+    p:last-child {
+      margin-bottom: 0;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+
+      li {
+        margin-bottom: 20px;
+        display: flex;
+        align-items: center;
+      }
+
+      strong {
+        margin-right: 10px;
+      }
+
+      i {
+        font-size: 16px;
+        margin-right: 5px;
+        color: #dd149d;
+        line-height: 0;
+      }
+    }
+  }
+}
