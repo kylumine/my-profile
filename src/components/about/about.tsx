@@ -5,7 +5,7 @@ import parse from 'html-react-parser';
 import { IProfile, TProfile } from 'types/common';
 
 // Constants
-import { ABOUT_TEXT_1, ABOUT_TEXT_2, ABOUT_TEXT_3 } from 'constants/common';
+import { ABOUT_TEXT_1 } from 'constants/common';
 
 // Jsons
 import Profiles from 'jsons/profiles.json';
